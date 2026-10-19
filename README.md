@@ -24,6 +24,7 @@
     - Creates overlay files for TV Show statuses.
 * [UpdateTool](https://github.com/mynttt/UpdateTool): Updates IMDb ratings & sets IMDb badges
 * [Remove from Plex Watchlist when watched](https://github.com/netplexflix/Remove-from-Plex-Watchlist-when-watched): Keeps watchlist clean
+* [Themerr](https://github.com/LizardByte/Themerr): Downloads (missing) Plex themes for both TV Shows and Movies. (yes, movies can have themes too..)
 
 ### Maintenance & Optimization
 
